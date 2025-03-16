@@ -80,7 +80,7 @@ victorsanchezalonso@icloud.com | Melbourne 🇦🇺
 ## **LANGUAGES**  
 - **Spanish** – Native  
 - **English** – C1 (Cambridge CAE), fluent in written and spoken communication.  
-  - 2 years of professional experience in Ireland 🇮🇪 and Australia 🇦🇺.  
+  -Completed 2 years of professional experience in Ireland 🇮🇪 and since 2022 relocated in Australia 🇦🇺.  
 
 ---
 
