@@ -39,10 +39,15 @@ victorsanchezalonso@icloud.com | Melbourne, Australia
 - Embedded AI development for video surveillance applications.  
 - Software acceptance testing and validation.  
 
-### **IT Specialist** | *Dec 2021 – Aug 2022*  
+### **IT Advisor** | *Dec 2021 – Aug 2022*  
 *Ministry of Economic Affairs and Digital Transformation (Spain 🇪🇸)*  
-- Developed and maintained software solutions for public sector digital transformation.  
+- Advisor for public sector digital transformation and AI.  
 
+### **CTO** | *Sep 2019 – Present*  
+*INDRA (Eurofighter Programme, Spain 🇪🇸)*  
+- Startup in the field of Oral Dentistry (California 🇺🇸).  
+- Patent USPTO US-20210377374-A1 Phone-mounted periscope for oral health.
+  
 ### **Senior Engineer – Avionics Embedded Systems** | *Mar 2011 – Jul 2019*  
 *INDRA (Eurofighter Programme, Spain 🇪🇸)*  
 - Developed real-time software (Integrity RTOS) for avionics applications.  
@@ -90,8 +95,4 @@ victorsanchezalonso@icloud.com | Melbourne, Australia
 ## **ADDITIONAL INFORMATION**  
 - Passionate about STEM and eco-conscious technologies.  
 - Strong problem-solving skills, proactive mindset, and adaptable to new challenges.  
-- Enthusiastic about continuous learning and knowledge-sharing in tech and AI fields.  
-
----  
-This version of your CV is **structured, modern, and concise**, ensuring it’s **easy to read and professional**. Let me know if you’d like any further refinements! 🚀
-
+- Enthusiastic about continuous learning and knowledge-sharing in tech and AI fields.
