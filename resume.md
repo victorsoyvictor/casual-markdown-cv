@@ -18,7 +18,8 @@ victorsanchezalonso@icloud.com | Melbourne, Australia
 
 **Pre-doctorate Research Grant Holder** | 2017 – 2018  
 *National Institute of Informatics (Tokyo 🇯🇵)*  
-- Focus: Object detection and identification in video and images.  
+- Focus: Object detection and identification in video and images.
+- Internship at NII in [Satoh-lab](https://www.satoh-lab.nii.ac.jp/member.html)
 
 **MSc in Systems and Control Engineering** | 2012 – 2014  
 *Complutense University of Madrid (Spain 🇪🇸)*  
