@@ -32,11 +32,10 @@
             } catch (error) {
                 document.getElementById("resume-content").innerHTML = "Error loading resume.";
             } finally {
-                // Ensure body is visible after loading
-                document.body.style.display = "block";
-
                 // Generate QR Code dynamically
                 document.getElementById('qrcode').src = 'https://qrcode.tec-it.com/API/QRCode?size=small&dpi=120&data=' + encodeURIComponent(location.href);
+                // Ensure body is visible after loading
+                document.body.style.display = "block";
             }
         });
     </script>
