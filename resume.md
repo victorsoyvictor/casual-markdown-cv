@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="portrait.png" />
 
 <span style="float:right;padding:6px"> 
   victorsanchezalonso@icloud.com <br> mobile: +61 (0)457 57 9638 <br> Nationality: Spanish
