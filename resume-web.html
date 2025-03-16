@@ -1,4 +1,39 @@
-﻿<!DOCTYPE html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Víctor Sánchez Alonso - Resume</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.0/showdown.min.js"></script>
+    <style>  
+      body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"SEGOE UI",ARIAL }
+      h1  { font-size:200%; padding:16px; border:1px solid lightgrey; COLOR:WHITE; BACKGROUND: LINEAR-GRADIENT(TO BOTTOM RIGHT, #06C, #FC0) }
+      h2  { border-bottom:1px solid grey; padding:2px; COLOR:TEAL }
+    </style>
+</head>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'; 
+              document.getElementById('qrcode').src='https://chart.googleapis.com/chart?cht=qr&chs=177x177&chl='+location.href">
+    <div id="resume-content">Loading resume...</div>
+  <img id=qrcode style="float:right; margin:5px; border:1px solid lightgrey; width:70px" />
+    <script>
+        document.addEventListener("DOMContentLoaded", async function() {
+            try {
+                const response = await fetch("resume.md"); // Load the Markdown file
+                const text = await response.text();
+                const converter = new showdown.Converter();
+                document.getElementById("resume-content").innerHTML = converter.makeHtml(text);
+            } catch (error) {
+                document.getElementById("resume-content").innerHTML = "Error loading resume.";
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
 <title>Resume</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
